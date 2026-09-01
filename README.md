@@ -164,6 +164,7 @@ while(player):
 ![image](https://github.com/natsaravanan/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/87870499/4be5bf06-79fa-4fa0-9334-38a33f06060b)
 
 ### OUTPUT 
+<img width="235" height="311" alt="image" src="https://github.com/user-attachments/assets/e6089871-3f0a-49f9-8fef-1d5b6ad0e5df" />
 
 ### RESULT
 
